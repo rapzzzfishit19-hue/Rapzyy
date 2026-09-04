@@ -2,7 +2,9 @@
   "tokens": [],
   "owners": [],
   "pts": [],
-  "resellers": [],
+  "resellers": [
+    null
+  ],
   "mods": [
     null,
     null
